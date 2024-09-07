@@ -1,0 +1,8 @@
+1. Mulai
+2. Definisikan fungsi jajar_genjang dengan parameter alas dan tinggi:
+   a. Hitung luas dengan rumus: alas * tinggi
+   b. Kembalikan nilai luas
+3. Tetapkan nilai alas menjadi 5
+4. Tetapkan nilai tinggi menjadi 3
+5. Panggil fungsi jajar_genjang dengan alas dan tinggi, dan cetak hasilnya
+6. Selesai

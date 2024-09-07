@@ -1,0 +1,8 @@
+1. Mulai
+2. Definisikan fungsi luas_segitiga dengan parameter alas dan tinggi:
+  - Hitung luas segitiga dengan rumus alas * tinggi / 2.
+  - Kembalikan nilai luas yang dihitung.
+3. Inisialisasi variabel alas dengan nilai 25.
+4. Inisialisasi variabel tinggi dengan nilai 30.
+5. Panggil fungsi luas_segitiga dengan alas dan tinggi sebagai argumen, dan print hasilnya.
+6. Selesai

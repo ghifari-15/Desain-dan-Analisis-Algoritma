@@ -1,0 +1,10 @@
+1. Mulai
+2. Definisikan fungsi volume_kerucut dengan parameter pi, r, t:
+   a. hitung volume tabung: pi * r**2 * t / 3
+   b. kembalikan nilai volume.
+3. Inisialisasi nilai pi dengan 3.14
+4, Inisialisasi nilai jari-jari dengan 1.5
+5. Inisialisasi nilai tinggi dengan 4
+6. Panggil fungsi volume_kerucut dengan argumen pi, r, t di dalam variabel hasil
+7. Panggil variabel hasil dengan digit yang dibulatkan menjadi 2 digit desima.
+8. Selesai

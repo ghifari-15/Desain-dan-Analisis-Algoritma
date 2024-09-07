@@ -1,0 +1,8 @@
+1. Mulai
+2. Definisikan fungsi jajar_genjang dengan parameter alas dan tinggi:
+  - Hitung luas jajar_genjang dengan rumus alas * tinggi.
+  - Kembalikan nilai luas yang dihitung.
+3. Inisialisasi variabel alas dengan nilai 5.
+4. Inisialisasi variabel tinggi dengan nilai 3.
+5. Panggil fungsi jajar_genjang dengan alas dan tinggi sebagai argumen, dan print hasilnya.
+6. Selesai

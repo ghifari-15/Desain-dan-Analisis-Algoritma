@@ -1,0 +1,8 @@
+1. Mulai
+2. Buat fungsi luas_segitiga dengan parameter alas dan tinggi:
+   a. Hitung luas dengan rumus: (alas * tinggi) / 2
+   b. Kembalikan nilai luas
+3. Tetapkan nilai alas menjadi 25
+4. Tetapkan nilai tinggi menjadi 30
+5. Panggil fungsi luas_segitiga dengan alas dan tinggi, dan cetak hasilnya
+6. Selesai

@@ -1,0 +1,17 @@
+1. Mulai
+2. Buat fungsi kpk dengan parameter a dan b:
+   a. Jika a > b, tetapkan max_value menjadi a
+   b. Jika tidak, tetapkan max_value menjadi b
+   c. Ulangi langkah berikut hingga kondisi tercapai:
+      i. Jika max_value habis dibagi a dan b (max_value % a == 0 dan max_value % b == 0):
+         - Tetapkan kpk = max_value
+         - Keluar dari loop
+      ii. Jika tidak, tambahkan 1 ke max_value
+   d. Kembalikan nilai kpk
+3. Buat fungsi main:
+   a. Minta pengguna memasukkan bilangan pertama (bilangan_1)
+   b. Minta pengguna memasukkan bilangan kedua (bilangan_2)
+   c. Panggil fungsi kpk dengan bilangan_1 dan bilangan_2, simpan hasilnya dalam hasil_kpk
+   d. Cetak hasil KPK dari bilangan_1 dan bilangan_2
+4. Panggil fungsi main
+5. Selesai

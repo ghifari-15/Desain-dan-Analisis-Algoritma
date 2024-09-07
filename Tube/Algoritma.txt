@@ -1,0 +1,15 @@
+1. Mulai
+2. Inisialisasi library "random".
+3. Definisikan fungsi volume_tabung dengan parameter pi, r, t.
+4. Hitung rumus volume tabung (v), yaitu pi * r**2 * t
+5. Kembalikan nilai volume tabung (v)
+6. Variabel pi akan mengambil nilai secara random antara 22/7 atau 3.14
+7. Inisialisasi variabel r dengan 3 sebagai jari-jari.
+8. Inisialisasi variabel t dengan 5 sebagai tinggi.
+9. Panggil fungsi volume_tabung dengan argumen pi, r, dan t. Fungsi
+tersebut menjadi nilai dalam variabel "hasil".
+10. Tampilkan output dari pi yang digunakan secara random. Nilai digit pi 
+diperpendek hanya menjadi 2 digit saja.
+11. Tampilkan output dari "hasil" dengan nilai digit yang diperpendek menjadi 
+2 digit saja.
+12. Selesai

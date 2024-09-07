@@ -1,0 +1,18 @@
+1. Mulai
+2. Definisikan fungsi kpk dengan parameter a dan b
+3. Seleksi kondisi dijalnkan:
+  - Apabila a lebih besar dari b, maka max_value ditentukan di a
+  - Apabila a lebih kecil dari b, maka max_value ditentukan di b
+4. Looping selama kondisi masih True:
+  - Apabila max_value dibagi dengan nilai a dan b hasilnya 0, maka nilai max_value akan
+    diinisialisasi sebagai kpk.
+  - Apabila tidak, maka max_value akan bertambah 1.
+5. Program akan mengembalikan nilai kpk.
+6. Definisikan fungsi main.
+7. Input bilangan pertama.
+8. Input bilangan kedua.
+9. panggil fungsi kpk(bilangan pertama, bilangan kedua) yang diinisialisasi dalam 
+variabel hasil_kpk
+10. Program mengeluarkan output.
+11. Panggil fungsi main.
+12. Selesai

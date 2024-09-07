@@ -1,0 +1,13 @@
+1. Mulai
+2. Tetapkan Piring_1 dengan nilai "Manggis"
+3. Tetapkan Piring_2 dengan nilai "Pisang"
+4. Cetak "Sebelum ditukar:"
+   a. Cetak nilai Piring_1
+   b. Cetak nilai Piring_2
+5. Buat variabel sementara (temp) dan simpan nilai Piring_1 di dalamnya
+6. Ganti nilai Piring_1 dengan nilai Piring_2
+7. Ganti nilai Piring_2 dengan nilai yang disimpan di temp
+8. Cetak "Setelah ditukar:"
+   a. Cetak nilai Piring_1
+   b. Cetak nilai Piring
+9. Selesai

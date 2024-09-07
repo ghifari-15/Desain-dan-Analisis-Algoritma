@@ -1,0 +1,10 @@
+1. Mulai
+2. Buat fungsi volume_tabung dengan parameter pi, r, dan t:
+   a. Hitung volume dengan rumus: pi * r**2 * t
+   b. Kembalikan nilai v
+3. Inisialisasi nilai pi dengan 3.14
+4. Tetapkan nilai jari-jari menjadi 3
+5. Tetapkan nilai tinggi menjadi 5
+6. Panggil fungsi volume_tabung dengan pi, r, dan t, simpan hasilnya dalam variabel 'hasil'
+7. Tampilkan volume tabung  yang dibulatkan menjadi 2 digit desimal.
+8. Selesai

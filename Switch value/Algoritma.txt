@@ -1,0 +1,13 @@
+1. Mulai
+2. Inisialisasi variabel Piring_1 dengan nilai "Manggis".
+3. Inisialisasi variabel Piring_2 dengan nilai "Pisang".
+3. Tampilkan "Sebelum ditukar: "
+4. Tampilkan "Piring 1 =" diikuti dengan nilai dari Piring_1.
+5. Tampilkan "Piring 2" diikuti dengan nilai dari Piring_2.
+6. Simpan nilai dari Piring_1 ke dalam variabel temp.
+7. Set Piring_1 dengan nilai dari Piring_2.
+8. Set Piring_2 dengan nilai dari temp.
+9. Tampilkan "Setelah ditukar:"
+10. Tampilkan "Piring 1 =" diikuti dengan nilai baru dari Piring_1.
+11. Tampilkan "Piring 2 =" diikuti dengan nilai baru dari Piring_2.
+12. Selesai
